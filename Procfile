@@ -1,1 +1,1 @@
-web: gunicorn diabetesPrediction.wsgi:application
+web: gunicorn diabetesPrediction.diabetesPrediction.wsgi:application

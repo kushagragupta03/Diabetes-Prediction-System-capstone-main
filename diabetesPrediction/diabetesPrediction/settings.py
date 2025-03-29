@@ -37,7 +37,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'diabetesPrediction.urls'
+ROOT_URLCONF = 'diabetesPrediction.diabetesPrediction.urls'
 
 TEMPLATES = [
     {

@@ -13,7 +13,7 @@ SECRET_KEY = 'django-insecure-p4^j0*4i!*trpy(y%v19z-#9_ofqnewvff%@pl4m23_3twby_e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['diabetes-prediction-system-capstone-main.onrender.com']
 
 # Application definition
 
